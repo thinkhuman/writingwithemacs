@@ -19,6 +19,14 @@ Pull requests welcome!
 * [Woodnotes Guide to Emacs for Writers](http://www.therandymon.com/index.php?/197-Woodnotes-Guide-to-Emacs-for-Writers.html)
 * [Org As a Word Processor](http://www.howardism.org/Technical/Emacs/orgmode-wordprocessor.html)
 * [Jacob Moen: My emacs configuration, optimized for creative writing](https://github.com/jacmoe/emacs.d)
+* [Options for writing prose with Emacs (Reddit thread)](https://www.reddit.com/r/emacs/comments/48dp3e/what_are_some_options_for_writing_prose_on)
+* [Poet, an Emacs theme for modes (like markdown and Org mode)using variable pitch](https://github.com/kunalb/poet)
+* [Linting prose in Emacs](https://unconj.ca/blog/linting-prose-in-emacs.html)
+* [Writeroom mode (Emacs mode for imitating Writeroom features)](https://github.com/joostkremers/writeroom-mode)
+* [Darkroom mode (a distraction-free Emacs mode)](https://github.com/joaotavora/darkroom)
+* [Olivetti (Emacs mode for a clean writing environment)](https://github.com/rnkn/olivetti)
+
+
 
 ## Writing a Book in Emacs
 * [Mickey Petersen: How to Write a Book in Emacs](https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs)
@@ -27,6 +35,10 @@ Pull requests welcome!
 * [Writing a book with a little help from Emacs and friends](https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/)
 * [Publishing a Book Using Org Mode](https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144)
 * [How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ](https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/)
+
+
+## Writing Screenplays in Emacs
+* [Five Emacs libraries for writing screenplays](https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay)
 
 
 
