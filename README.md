@@ -30,6 +30,8 @@ Pull requests welcome!
 * [Long form writing with Org Mode](http://doc.rix.si/cce/cce-writing.html#org4123a79)
 * [Blogging with Emacs (only)](https://diego.codes/post/blogging-with-org/)
 * [Emacs Blogging For Fun and Profit (blogging with Emacs)](https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html)
+* [Emacs setup for writers: An Emacs setup for writers looking for an alternative to traditional writing software](https://github.com/gorgophol/emacs-setup-for-writers)
+
 
 ## Writing a Book in Emacs
 * [Mickey Petersen: How to Write a Book in Emacs](https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs)
@@ -38,11 +40,13 @@ Pull requests welcome!
 * [Writing a book with a little help from Emacs and friends](https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/)
 * [Publishing a Book Using Org Mode](https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144)
 * [How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ](https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/)
+* [Camus mode: a minimalist emacs workflow for writing short stories and novels](https://github.com/priyatam/camus-mode)
 
 
 ## Writing Screenplays in Emacs
 * [Five Emacs libraries for writing screenplays](https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay)
-
+* [Fountain mode](https://fountain-mode.org/)
+* [Epic mode](https://github.com/bookhacker/epic-mode)
 
 
 
