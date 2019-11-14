@@ -29,7 +29,7 @@ Pull requests welcome!
 * [iA Writer mode for Emacs](https://kodfabrik.com/journal/ia-writer-mode-for-emacs/)
 * [Long form writing with Org Mode](http://doc.rix.si/cce/cce-writing.html#org4123a79)
 * [Blogging with Emacs (only)](https://diego.codes/post/blogging-with-org/)
-* [Emacs Blogging For Fun and Profit (blogging with Emacs)(https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html)
+* [Emacs Blogging For Fun and Profit (blogging with Emacs)](https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html)
 
 ## Writing a Book in Emacs
 * [Mickey Petersen: How to Write a Book in Emacs](https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs)
