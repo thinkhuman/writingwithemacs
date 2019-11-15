@@ -43,6 +43,10 @@ Pull requests welcome!
 - [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]
 
 
+** Writing a scientific paper in Emacs
+- [[https://write.as/dani/writing-a-phd-thesis-with-org-mode][Writing a PhD thesis with Org Mode — Dani]]
+
+
 ** Writing Screenplays in Emacs
 - [[https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay][Five Emacs libraries for writing screenplays]]
 - [[https://fountain-mode.org/][Fountain mode]]
