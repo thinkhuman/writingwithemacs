@@ -1,11 +1,12 @@
-#+OPTIONS: toc:nil
 * Emacs for Writing
 
 Emacs has a long history of being used for writing prose, blog posts, technical books, novels, and more. Here are some first-hand experiences you might find useful, whether you're new to Emacs or just looking for ideas to customize your current Emacs configuration.
 
 Pull requests welcome!
 ** Contents
-#+TOC: headlines 2
+- [[Tips and Examples for Writing with Emacs][Tips and Examples for Writing with Emacs]]
+- [[Writing a book in Emacs][Writing a book in Emacs]]
+- [[Writing a screenplay in Emacs][Writing a screenplay in Emacs]]
 
 ** Tips and Examples for Writing With Emacs
 - [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]
@@ -46,7 +47,7 @@ Pull requests welcome!
 - [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]
 
 
-** Writing Screenplays in Emacs
+** Writing a Screenplay in Emacs
 - [[https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay][Five Emacs libraries for writing screenplays]]
 - [[https://fountain-mode.org/][Fountain mode]]
 - [[https://github.com/bookhacker/epic-mode][Epic mode]]
