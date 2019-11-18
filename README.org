@@ -4,9 +4,9 @@ Emacs has a long history of being used for writing prose, blog posts, technical 
 
 Pull requests welcome!
 ** Contents
-- [[Tips-and-Examples-for-Writing-with-Emacs][Tips and Examples for Writing with Emacs]]
-- [[Writing a book in Emacs][Writing a book in Emacs]]
-- [[Writing a screenplay in Emacs][Writing a screenplay in Emacs]]
+- [[README.org#Tips-and-Examples-for-Writing-with-Emacs][Tips and Examples for Writing with Emacs]]
+- [[README.org#Writing-a-book-in-Emacs][Writing a book in Emacs]]
+- [[README.org#Writing-a-screenplay-in-Emacs][Writing a screenplay in Emacs]]
 
 ** Tips and Examples for Writing With Emacs
 - [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]
