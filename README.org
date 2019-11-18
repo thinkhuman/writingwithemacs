@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 * Emacs for Writing
 
 Emacs has a long history of being used for writing prose, blog posts, technical books, novels, and more. Here are some first-hand experiences you might find useful, whether you're new to Emacs or just looking for ideas to customize your current Emacs configuration.
