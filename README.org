@@ -3,7 +3,7 @@
 Emacs has a long history of being used for writing prose, blog posts, technical books, novels, and more. Here are some first-hand experiences you might find useful, whether you're new to Emacs or just looking for ideas to customize your current Emacs configuration.
 
 Pull requests welcome!
-
+** Contents
 #+OPTIONS: toc:2
 
 ** Tips and Examples for Writing With Emacs
