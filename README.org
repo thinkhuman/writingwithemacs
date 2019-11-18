@@ -4,7 +4,7 @@ Emacs has a long history of being used for writing prose, blog posts, technical 
 
 Pull requests welcome!
 ** Contents
-- [[Tips and Examples for Writing with Emacs][Tips and Examples for Writing with Emacs]]
+- [[Tips-and-Examples-for-Writing-with-Emacs][Tips and Examples for Writing with Emacs]]
 - [[Writing a book in Emacs][Writing a book in Emacs]]
 - [[Writing a screenplay in Emacs][Writing a screenplay in Emacs]]
 
