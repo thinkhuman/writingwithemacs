@@ -4,6 +4,8 @@ Emacs has a long history of being used for writing prose, blog posts, technical 
 
 Pull requests welcome!
 
+#+OPTIONS: toc:2
+
 ** Tips and Examples for Writing With Emacs
 - [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]
 - [[https://opensource.com/article/18/5/emacs-modes-writers][5 Emacs modes for writers]]
