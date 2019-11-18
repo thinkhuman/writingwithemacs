@@ -31,7 +31,7 @@ Pull requests welcome!
 - [[https://diego.codes/post/blogging-with-org/][Blogging with Emacs (only)]]
 - [[https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html][Emacs Blogging For Fun and Profit (blogging with Emacs)]]
 - [[https://github.com/gorgophol/emacs-setup-for-writers][Emacs setup for writers: An Emacs setup for writers looking for an alternative to traditional writing software]]
-
+- [[https://www.youtube.com/watch?v=0g9BcZvQbXU][Consistent Technical Documents Using Emacs and Org-Mode]]
 
 ** Writing a Book in Emacs
 - [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]
