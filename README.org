@@ -7,6 +7,7 @@ Pull requests welcome!
 ** Contents
 - [[README.org#Tips-and-Examples-for-Writing-with-Emacs][Tips and Examples for Writing with Emacs]]
 - [[README.org#Writing-a-book-in-Emacs][Writing a book in Emacs]]
+- [[README.org#Writing-Technical-and-Scientific-Documents-in-Emacs][Writing Technical and Scientific Documents in Emacs]]
 - [[README.org#Writing-a-screenplay-in-Emacs][Writing a screenplay in Emacs]]
 - [[README.org#Blogging-with-Emacs][Blogging with Emacs]]
 - [[README.org#Emacs-Modes-and-Configurations-for-Writers][Emacs Modes and Configurations for Writers]]
