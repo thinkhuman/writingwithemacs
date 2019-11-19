@@ -37,6 +37,9 @@ Pull requests welcome!
 - [[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]]
 - [[https://www.r-bloggers.com/writing-a-book-with-a-little-help-from-emacs-and-friends/][Writing a book with a little help from Emacs and friends]]
 
+** Writing Technical and Scientific Documents in Emacs
+- [[https://write.as/dani/writing-a-phd-thesis-with-org-mode][Writing a PhD thesis with Org Mode — Dani]]
+
 ** Writing a Screenplay in Emacs
 - [[https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay][Five Emacs libraries for writing screenplays]]
 - [[https://fountain-mode.org/][Fountain mode]]
