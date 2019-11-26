@@ -38,6 +38,7 @@ Pull requests welcome!
 - [[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishing a Book Using Org Mode]]
 - [[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]]
 - [[https://www.r-bloggers.com/writing-a-book-with-a-little-help-from-emacs-and-friends/][Writing a book with a little help from Emacs and friends]]
+- [[https://joshlong.com/jl/blogPost/emacs-pt-1.html][Getting Emacs Ready for Writin', Part I]]
 
 ** Writing Technical and Scientific Documents in Emacs
 - [[https://write.as/dani/writing-a-phd-thesis-with-org-mode][Writing a PhD thesis with Org Mode — Dani]]
