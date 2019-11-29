@@ -12,57 +12,70 @@ Pull requests welcome!
 - [[README.org#Blogging-with-Emacs][Blogging with Emacs]]
 - [[README.org#Emacs-Modes-and-Configurations-for-Writers][Emacs Modes and Configurations for Writers]]
 
+
 ** Tips and Examples for Writing With Emacs
-- [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]
-- [[https://www.youtube.com/watch?v=FtieBc3KptU][Emacs for Writers: A video presentation by Jay Dixit]]
-- [[https://emacscast.org/episode_8/][EmacsCast, Episode 8: Writing in Emacs and Org mode, part 1]]
-- [[https://www.youtube.com/watch?v=VOfSjLwQY28][Replacing Scrivener with Emacs and Vim]]
-- [[https://emacs.stackexchange.com/questions/2171/what-options-are-there-for-writing-better-non-programming-text-in-emacs/14238#14238][StackExchange: What options are there for writing better non-programming text in Emacs?]]
-- [[https://tonyballantyne.com/EmacsWritingTips.html][Tony Ballantyne: My Emacs Writing Setup]]
-- [[https://johnurquhartferguson.info/post/how-i-write-my-writing-software/][How I Write - My Writing Software]]
-- [[https://www.viktorbengtsson.com/blog/org-mode-for-writers/][Org Mode for Writers]]
-- [[https://awarewriter.wordpress.com/2012/03/04/org-mode-for-writing-structure-focus/][Org-mode for Writing: Structure & Focus]]
-- [[http://www.therandymon.com/index.php?/197-Woodnotes-Guide-to-Emacs-for-Writers.html][Woodnotes Guide to Emacs for Writers]]
-- [[http://www.howardism.org/Technical/Emacs/orgmode-wordprocessor.html][Org As a Word Processor]]
-- [[https://www.reddit.com/r/emacs/comments/48dp3e/what_are_some_options_for_writing_prose_on)][Options for writing prose with Emacs (Reddit thread)]]
-- [[https://unconj.ca/blog/linting-prose-in-emacs.html][Linting prose in Emacs]] [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]
-- [[https://github.com/gorgophol/emacs-setup-for-writers][Emacs setup for writers: An Emacs setup for writers looking for an alternative to traditional writing software]]
-- [[https://www.youtube.com/watch?v=0g9BcZvQbXU][Consistent Technical Documents Using Emacs and Org-Mode]]
-- [[https://www.reddit.com/r/emacs/comments/e0m5dl/my_orgmode_workflow_for_studies/][My Org Mode Workflow for Studies]]
-- [[http://www.beastwithin.org/blog/2011/05/24/lets-just-use-emacs.html][Let's Just Use Emacs (for editing prose)]]
-- [[https://writing.stackexchange.com/questions/18070/make-emacs-or-vim-etc-like-ulysses][Make Emacs Like Ulysses]]
-- [[https://bunkham.com/emacs-writing-setup/][Distraction-Free Writing Gnu Style]]
+| Link                                                                                                             | Description |
+|------------------------------------------------------------------------------------------------------------------+-------------|
+| - [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]                                             |             |
+| - [[https://www.youtube.com/watch?v=FtieBc3KptU][Emacs for Writers: A video presentation by Jay Dixit]]                                                           |             |
+| - [[https://emacscast.org/episode_8/][EmacsCast, Episode 8: Writing in Emacs and Org mode, part 1]]                                                    |             |
+| - [[https://www.youtube.com/watch?v=VOfSjLwQY28][Replacing Scrivener with Emacs and Vim]]                                                                         |             |
+| - [[https://emacs.stackexchange.com/questions/2171/what-options-are-there-for-writing-better-non-programming-text-in-emacs/14238#14238][StackExchange: What options are there for writing better non-programming text in Emacs?]]                        |             |
+| - [[https://tonyballantyne.com/EmacsWritingTips.html][Tony Ballantyne: My Emacs Writing Setup]]                                                                        |             |
+| - [[https://johnurquhartferguson.info/post/how-i-write-my-writing-software/][How I Write - My Writing Software]]                                                                              |             |
+| - [[https://www.viktorbengtsson.com/blog/org-mode-for-writers/][Org Mode for Writers]]                                                                                           |             |
+| - [[https://awarewriter.wordpress.com/2012/03/04/org-mode-for-writing-structure-focus/][Org-mode for Writing: Structure & Focus]]                                                                        |             |
+| - [[http://www.therandymon.com/index.php?/197-Woodnotes-Guide-to-Emacs-for-Writers.html][Woodnotes Guide to Emacs for Writers]]                                                                           |             |
+| - [[http://www.howardism.org/Technical/Emacs/orgmode-wordprocessor.html][Org As a Word Processor]]                                                                                        |             |
+| - [[https://www.reddit.com/r/emacs/comments/48dp3e/what_are_some_options_for_writing_prose_on)][Options for writing prose with Emacs (Reddit thread)]]                                                           |             |
+| - [[https://unconj.ca/blog/linting-prose-in-emacs.html][Linting prose in Emacs]] [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]                                                         |             |
+| - [[https://github.com/gorgophol/emacs-setup-for-writers][Emacs setup for writers: An Emacs setup for writers looking for an alternative to traditional writing software]] |             |
+| - [[https://www.youtube.com/watch?v=0g9BcZvQbXU][Consistent Technical Documents Using Emacs and Org-Mode]]                                                        |             |
+| - [[https://www.reddit.com/r/emacs/comments/e0m5dl/my_orgmode_workflow_for_studies/][My Org Mode Workflow for Studies]]                                                                               |             |
+| - [[http://www.beastwithin.org/blog/2011/05/24/lets-just-use-emacs.html][Let's Just Use Emacs (for editing prose)]]                                                                       |             |
+| - [[https://writing.stackexchange.com/questions/18070/make-emacs-or-vim-etc-like-ulysses][Make Emacs Like Ulysses]]                                                                                        |             |
+| - [[https://bunkham.com/emacs-writing-setup/][Distraction-Free Writing Gnu Style]]                                                                             |             |
 
 ** Writing a Book in Emacs
-- [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]
-- [[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org-Mode]]
-- [[https://irreal.org/blog/?p=4429][Writing a Book in Org Mode]]
-- [[https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/][Writing a book with a little help from Emacs and friends]]
-- [[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishing a Book Using Org Mode]]
-- [[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]]
-- [[https://www.r-bloggers.com/writing-a-book-with-a-little-help-from-emacs-and-friends/][Writing a book with a little help from Emacs and friends]]
-- [[https://joshlong.com/jl/blogPost/emacs-pt-1.html][Getting Emacs Ready for Writin', Part I]]
+| Link                                                                  | Description |
+|-----------------------------------------------------------------------+-------------|
+| - [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]                       |             |
+| - [[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org-Mode]]                      |             |
+| - [[https://irreal.org/blog/?p=4429][Writing a Book in Org Mode]]                                          |             |
+| - [[https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/][Writing a book with a little help from Emacs and friends]]            |             |
+| - [[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishing a Book Using Org Mode]]                                    |             |
+| - [[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]] |             |
+| - [[https://www.r-bloggers.com/writing-a-book-with-a-little-help-from-emacs-and-friends/][Writing a book with a little help from Emacs and friends]]            |             |
+| - [[https://joshlong.com/jl/blogPost/emacs-pt-1.html][Getting Emacs Ready for Writin', Part I]]                             |             |
 
 ** Writing Technical and Scientific Documents in Emacs
-- [[https://write.as/dani/writing-a-phd-thesis-with-org-mode][Writing a PhD thesis with Org Mode — Dani]]
+| Link                                        | Description |
+| - [[https://write.as/dani/writing-a-phd-thesis-with-org-mode][Writing a PhD thesis with Org Mode — Dani]] |             |
+
 
 ** Writing a Screenplay in Emacs
-- [[https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay][Five Emacs libraries for writing screenplays]]
-- [[https://fountain-mode.org/][Fountain mode]]
-- [[https://github.com/bookhacker/epic-mode][Epic mode]]
+| Link                                           | Description |
+|------------------------------------------------+-------------|
+| - [[https://www.emacswiki.org/emacs/?action=browse;oldid=ScreenPlay;id=Screenplay][Five Emacs libraries for writing screenplays]] |             |
+| - [[https://fountain-mode.org/][Fountain mode]]                                |             |
+| - [[https://github.com/bookhacker/epic-mode][Epic mode]]                                    |             |
 
 ** Blogging with Emacs
-- [[https://diego.codes/post/blogging-with-org/][Blogging with Emacs (only)]]
-- [[https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html][Emacs Blogging For Fun and Profit (blogging with Emacs)]]
+| Link                                                      | Description |
+|-----------------------------------------------------------+-------------|
+| - [[https://diego.codes/post/blogging-with-org/][Blogging with Emacs (only)]]                              |             |
+| - [[https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html][Emacs Blogging For Fun and Profit (blogging with Emacs)]] |             |
 
 ** Emacs Modes and Configurations for Writers
-- [[https://opensource.com/article/18/5/emacs-modes-writers][5 Emacs modes for writers]]
-- [[https://github.com/jacmoe/emacs.d][Jacob Moen: My emacs configuration, optimized for creative writing]]
-- [[https://kodfabrik.com/journal/ia-writer-mode-for-emacs/][iA Writer mode for Emacs]]
-- [[https://github.com/joostkremers/writeroom-mode][Writeroom mode (Emacs mode for imitating Writeroom features)]]
-- [[https://github.com/joaotavora/darkroom][Darkroom mode (a distraction-free Emacs mode)]]
-- [[https://github.com/rnkn/olivetti][Olivetti (Emacs mode for a clean writing environment)]]
-- [[https://github.com/frankjonen/emacs-for-writers][Emacs for Writers (a Spacemacs configuration)]]
-- [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]
-- [[https://github.com/kunalb/poet][Poet, an Emacs theme for modes (like markdown and Org mode)using variable pitch]]
-- [[http://bnbeckwith.com/code/writegood-mode.html][WriteGood Mode for finding common writing problems]]
+| Link                                                                              | Description |
+|-----------------------------------------------------------------------------------+-------------|
+| - [[https://opensource.com/article/18/5/emacs-modes-writers][5 Emacs modes for writers]]                                                       |             |
+| - [[https://github.com/jacmoe/emacs.d][Jacob Moen: My emacs configuration, optimized for creative writing]]              |             |
+| - [[https://kodfabrik.com/journal/ia-writer-mode-for-emacs/][iA Writer mode for Emacs]]                                                        |             |
+| - [[https://github.com/joostkremers/writeroom-mode][Writeroom mode (Emacs mode for imitating Writeroom features)]]                    |             |
+| - [[https://github.com/joaotavora/darkroom][Darkroom mode (a distraction-free Emacs mode)]]                                   |             |
+| - [[https://github.com/rnkn/olivetti][Olivetti (Emacs mode for a clean writing environment)]]                           |             |
+| - [[https://github.com/frankjonen/emacs-for-writers][Emacs for Writers (a Spacemacs configuration)]]                                   |             |
+| - [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]    |             |
+| - [[https://github.com/kunalb/poet][Poet, an Emacs theme for modes (like markdown and Org mode)using variable pitch]] |             |
+| - [[http://bnbeckwith.com/code/writegood-mode.html][WriteGood Mode for finding common writing problems]]                              |             |
