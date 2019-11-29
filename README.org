@@ -29,6 +29,7 @@ Pull requests welcome!
 - [[https://github.com/gorgophol/emacs-setup-for-writers][Emacs setup for writers: An Emacs setup for writers looking for an alternative to traditional writing software]]
 - [[https://www.youtube.com/watch?v=0g9BcZvQbXU][Consistent Technical Documents Using Emacs and Org-Mode]]
 - [[https://www.reddit.com/r/emacs/comments/e0m5dl/my_orgmode_workflow_for_studies/][My Org Mode Workflow for Studies]]
+- [[http://www.beastwithin.org/blog/2011/05/24/lets-just-use-emacs.html][Let's Just Use Emacs (for editing prose)]]
 
 ** Writing a Book in Emacs
 - [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]
