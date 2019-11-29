@@ -64,3 +64,4 @@ Pull requests welcome!
 - [[https://github.com/frankjonen/emacs-for-writers][Emacs for Writers (a Spacemacs configuration)]]
 - [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]
 - [[https://github.com/kunalb/poet][Poet, an Emacs theme for modes (like markdown and Org mode)using variable pitch]]
+- [[http://bnbeckwith.com/code/writegood-mode.html][WriteGood Mode for finding common writing problems]]
