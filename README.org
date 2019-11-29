@@ -31,6 +31,7 @@ Pull requests welcome!
 - [[https://www.reddit.com/r/emacs/comments/e0m5dl/my_orgmode_workflow_for_studies/][My Org Mode Workflow for Studies]]
 - [[http://www.beastwithin.org/blog/2011/05/24/lets-just-use-emacs.html][Let's Just Use Emacs (for editing prose)]]
 - [[https://writing.stackexchange.com/questions/18070/make-emacs-or-vim-etc-like-ulysses][Make Emacs Like Ulysses]]
+- [[https://bunkham.com/emacs-writing-setup/][Distraction-Free Writing Gnu Style]]
 
 ** Writing a Book in Emacs
 - [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]
