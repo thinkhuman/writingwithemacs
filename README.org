@@ -37,16 +37,15 @@ Pull requests welcome!
 | [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]                                                         | Discussion of how a writer configured Emacs and Org-Mode to streamline longer-form (blog and journal) writing             |
 
 ** Writing a Book in Emacs
-| Link                                                                  | Description |
-|-----------------------------------------------------------------------+-------------|
-|[[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]                       |             |
-|[[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org-Mode]]                      |             |
-|[[https://irreal.org/blog/?p=4429][Writing a Book in Org Mode]]                                          |             |
-|[[https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/][Writing a book with a little help from Emacs and friends]]            |             |
-|[[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishing a Book Using Org Mode]]                                    |             |
-|[[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]] |             |
-|[[https://www.r-bloggers.com/writing-a-book-with-a-little-help-from-emacs-and-friends/][Writing a book with a little help from Emacs and friends]]            |             |
-|[[https://joshlong.com/jl/blogPost/emacs-pt-1.html][Getting Emacs Ready for Writin', Part I]]                             |             |
+| Link                                                                | Description                                                                                                 |
+|---------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------|
+| [[https://www.masteringemacs.org/article/how-to-write-a-book-in-emacs][Mickey Petersen: How to Write a Book in Emacs]]                       | Description of how to write and output books using Emacs by Mickey Petersen, author of Mastering Emacs      |
+| [[https://www.kpkaiser.com/programming/writing-a-technical-book-in-emacs-and-org-mode/][Writing a Technical Book in Emacs and Org-Mode]]                      | K.P. Kaiser talks about how he wrote the book /Make Art With Python/ using Emacs                              |
+| [[https://irreal.org/blog/?p=4429][Writing a Book in Org Mode]]                                          | A few thoughts on using Org-Mode to write a book, focusing on the usefulness of LaTeX to create output      |
+| [[https://procomun.wordpress.com/2014/03/10/writing-a-book-with-emacs/][Writing a book with a little help from Emacs and friends]]            | Oscar Perpiñán Lamigueiro discusses how he configured and used Emacs to write his technical book            |
+| [[https://medium.com/@lakshminp/publishing-a-book-using-org-mode-9e817a56d144][Publishing a Book Using Org Mode]]                                    | Lakshmi Narasimhan reflects on how he used Org-Mode to write and publish his book on Leanpub                |
+| [[https://www.tomheon.com/2019/04/10/how-an-uber-geeky-text-mode-in-a-40-year-old-editor-saved-my-novel/][How an Uber-Geeky Text Mode in a 40-Year-Old Editor Saved My Novel ]] | A writer reflects on how he wrote a novel in Org-Mode, including formatting, revision, and other challenges |
+| [[https://joshlong.com/jl/blogPost/emacs-pt-1.html][Getting Emacs Ready for Writin', Part I]]                             | Josh Long describes how he initially configured Emacs to prepare for writing his book /Reactive Spring/       |
 
 ** Writing Technical and Scientific Documents in Emacs
 | Link                                      | Description |
