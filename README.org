@@ -35,6 +35,7 @@ Pull requests welcome!
 | [[https://writing.stackexchange.com/questions/18070/make-emacs-or-vim-etc-like-ulysses][Make Emacs Like Ulysses]]                                                                 | Discussion about how to make Emacs look/function more like the popular (MacOS/iOS only) writing app Ulysses               |
 | [[https://bunkham.com/emacs-writing-setup/][Distraction-Free Writing Gnu Style]]                                                      | Paul Bunkham's description of how he configured Emacs to create a 'distraction-free' writing environment                  |
 | [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]                                                         | Discussion of how a writer configured Emacs and Org-Mode to streamline longer-form (blog and journal) writing             |
+| [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs]]                                                             | Jacob Moena describes how he went from a childhood with no PCs to Commodores, WordPerfect...and eventually to Emacs. |
 
 ** Writing a Book in Emacs
 | Link                                                                | Description                                                                                                 |
