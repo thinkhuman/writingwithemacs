@@ -11,6 +11,7 @@ Pull requests welcome!
 - [[README.org#Writing-a-screenplay-in-Emacs][Writing a screenplay in Emacs]]
 - [[README.org#Blogging-with-Emacs][Blogging with Emacs]]
 - [[README.org#Emacs-Modes-and-Configurations-for-Writers][Emacs Modes and Configurations for Writers]]
+- [[README.org#Emacs-Writing-Workflows][Emacs Writing Workflows]]
 
 
 ** Tips and Examples for Writing With Emacs
@@ -79,3 +80,8 @@ Pull requests welcome!
 | [[https://github.com/priyatam/camus-mode][Camus mode: a minimalist emacs workflow for writing short stories and novels]]    |             |
 | [[https://github.com/kunalb/poet][Poet, an Emacs theme for modes (like markdown and Org mode)using variable pitch]] |             |
 | [[http://bnbeckwith.com/code/writegood-mode.html][WriteGood Mode for finding common writing problems]]                              |             |
+
+** Emacs Writing Workflows
+| Link                                     | Description |
+|------------------------------------------+-------------|
+| [[https://www.marcoieni.com/2020/02/doc-org-org-mode-latex-docker-pdf/][Doc-org: org-mode + latex + docker = pdf]] | Marco Ieni's Doc-org, a command line utility to generate PDFs from Org-Mode+LaTeX |
