@@ -66,6 +66,7 @@ Pull requests welcome!
 |---------------------------------------------------------+-------------|
 | [[https://diego.codes/post/blogging-with-org/][Blogging with Emacs (only)]]                              |             |
 | [[https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html][Emacs Blogging For Fun and Profit (blogging with Emacs)]] |             |
+| [[https://orgmode.org/worg/org-tutorials/org-jekyll.html][Using Org to Blog with Jekyll]]                           | orgmode.org tutorial on combining Emacs Org-Mode with Jekyll to build a blog or static site |
 
 ** Emacs Modes and Configurations for Writers
 | Link                                                                            | Description |
