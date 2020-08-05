@@ -39,7 +39,7 @@ Pull requests welcome!
 | [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]                                                         | Discussion of how a writer configured Emacs and Org-Mode to streamline longer-form (blog and journal) writing             |
 | [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs]]                                                             | Jacob Moena describes how he went from a childhood with no PCs to Commodores, WordPerfect...and eventually to Emacs.      |
 | [[https://explog.in/notes/writingsetup.html][My Writing Setup]]                                                                        | Bhalla Kunal's straightforward Emacs writing setup, with monitor orientation and example screenshots.                     |
-| [[https://tech.tonyballantyne.com/emacs/really-simple-scrivener-mode/][Really Simple Scrivener Mode]]                                                            | Tony Ballantyne's configuration to mimic the writing tool Scrivener.                                               |
+| [[https://tech.tonyballantyne.com/emacs/really-simple-scrivener-mode/][Really Simple Scrivener Mode]]                                                            | Tony Ballantyne's configuration to mimic the basic screen layout of Scrivener.                         |
 
 ** Writing a Book in Emacs
 | Link                                                                | Description                                                                                                 |
