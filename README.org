@@ -15,6 +15,7 @@ Pull requests welcome!
 
 
 ** Tips and Examples for Writing With Emacs
+
 | Link                                                                                    | Description                                                                                                               |
 |-----------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------|
 | [[https://www.wisdomandwonder.com/article/10805/emacsorg-mode-choosing-the-best-writing-and-publishing-software][(Emacs+Org-Mode) Choosing The Best Writing And Publishing Software]]                      | Using LaTeX and Org-Mode to write and publish                                                                             |
@@ -36,7 +37,9 @@ Pull requests welcome!
 | [[https://writing.stackexchange.com/questions/18070/make-emacs-or-vim-etc-like-ulysses][Make Emacs Like Ulysses]]                                                                 | Discussion about how to make Emacs look/function more like the popular (MacOS/iOS only) writing app Ulysses               |
 | [[https://bunkham.com/emacs-writing-setup/][Distraction-Free Writing Gnu Style]]                                                      | Paul Bunkham's description of how he configured Emacs to create a 'distraction-free' writing environment                  |
 | [[http://doc.rix.si/cce/cce-writing.html#org4123a79][Long form writing with Org Mode]]                                                         | Discussion of how a writer configured Emacs and Org-Mode to streamline longer-form (blog and journal) writing             |
-| [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs]]                                                             | Jacob Moena describes how he went from a childhood with no PCs to Commodores, WordPerfect...and eventually to Emacs. |
+| [[https://jacmoes.wordpress.com/2019/09/24/creative-writing-with-emacs/][Creative writing with Emacs]]                                                             | Jacob Moena describes how he went from a childhood with no PCs to Commodores, WordPerfect...and eventually to Emacs.      |
+| [[https://explog.in/notes/writingsetup.html][My Writing Setup]]                                                                        | Bhalla Kunal's straightforward Emacs writing setup, with monitor orientation and example screenshots.                     |
+| [[https://tech.tonyballantyne.com/emacs/really-simple-scrivener-mode/][Really Simple Scrivener Mode]]                                                            | Tony Ballantyne's configuration to mimic the popular writing tool Scrivener.                                              |
 
 ** Writing a Book in Emacs
 | Link                                                                | Description                                                                                                 |
@@ -83,6 +86,6 @@ Pull requests welcome!
 | [[http://bnbeckwith.com/code/writegood-mode.html][WriteGood Mode for finding common writing problems]]                              |             |
 
 ** Emacs Writing Workflows
-| Link                                     | Description |
-|------------------------------------------+-------------|
+| Link                                     | Description                                                                       |
+|------------------------------------------+-----------------------------------------------------------------------------------|
 | [[https://www.marcoieni.com/2020/02/doc-org-org-mode-latex-docker-pdf/][Doc-org: org-mode + latex + docker = pdf]] | Marco Ieni's Doc-org, a command line utility to generate PDFs from Org-Mode+LaTeX |
