@@ -75,7 +75,7 @@ Pull requests welcome!
 | Link                                                                            | Description |
 |---------------------------------------------------------------------------------+-------------|
 | [[https://opensource.com/article/18/5/emacs-modes-writers][5 Emacs modes for writers]]                                                       |             |
-| [[https://github.com/jacmoe/emacs.d][Jacob Moen: My emacs configuration, optimized for creative writing]]              |             |
+| [[https://github.com/jacmoe/.doom.d][My Doom-Emacs configuration. My Hotel California of creative writing.]]              |             |
 | [[https://kodfabrik.com/journal/ia-writer-mode-for-emacs/][iA Writer mode for Emacs]]                                                        |             |
 | [[https://github.com/joostkremers/writeroom-mode][Writeroom mode (Emacs mode for imitating Writeroom features)]]                    |             |
 | [[https://github.com/joaotavora/darkroom][Darkroom mode (a distraction-free Emacs mode)]]                                   |             |
